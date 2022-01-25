@@ -6,16 +6,12 @@ public class OurGroup {
     public OurGroup()
     {
         groupMembers = new Vector<String>();
-<<<<<<< HEAD
-        groupMembers.add("Pooriwat"); //PUT YOUR NAME HERE
-=======
         groupMembers.add("Thanapat Wongtungjaroensuk");
-	groupMembers.add("Nuttawat Juntawong"); //PUT YOUR NAME HERE
->>>>>>> parent of 949a5d2 (My first group changes to OurGroup.java)
+	    groupMembers.add("Nuttawat Juntawong"); 
+        groupMembers.add("Pooriwat Poolab");//PUT YOUR NAME HERE
     }
     public Vector<String> getGroupMembers () {
         return groupMembers;
     }
 
 }
-
